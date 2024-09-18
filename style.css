@@ -65,7 +65,7 @@ h2, h3 {
     margin: 0px;
 }
 .content h1 {
-    color: black;
+    color: rgb(104, 50, 132);
 }
 
 #portfolio {
@@ -74,14 +74,14 @@ h2, h3 {
 }
 
 #portfolio li {
-    background: #895999;
+    background: #cea0de;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-    background: #711e8d;
+    background: #835392;
 }
 
 #portfolio a {
